@@ -1,0 +1,6 @@
+{
+  "name": "Lectures nursing .com",
+  "description": "Comprehensive nursing learning app covering Pediatric Nursing, Developmental Psychology, Evidence-Based Practice, and Teaching Strategies. Created for King Salman International University Level Two.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
